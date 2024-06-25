@@ -1,0 +1,5 @@
+*.yml
+dockerfile
+docker-compose
+pycache
+*.pyc
